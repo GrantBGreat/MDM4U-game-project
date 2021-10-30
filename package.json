@@ -1,0 +1,23 @@
+{
+  "name": "mdm4u-game-project",
+  "version": "1.0.0",
+  "description": "My game for the Data Management grade 12 course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrantBGreat/MDM4U-game-project.git"
+  },
+  "author": "Grant Bourne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrantBGreat/MDM4U-game-project/issues"
+  },
+  "homepage": "https://github.com/GrantBGreat/MDM4U-game-project#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node-json-db": "^1.4.1"
+  }
+}
