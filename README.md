@@ -4,8 +4,8 @@ My game for the Data Management grade 12 course. This was made to collect experm
 ## How to run it:
 1) Install [NodeJS](https://nodejs.org/en/) (LTS recommended)
 2) Clone the code:
-    -  Via SSH: git@github.com:GrantBGreat/MDM4U-game-project.git
-    -  Via HTTPS: https://github.com/GrantBGreat/MDM4U-game-project.git
+    -  Via SSH: `git@github.com:GrantBGreat/MDM4U-game-project.git`
+    -  Via HTTPS: `https://github.com/GrantBGreat/MDM4U-game-project.git`
 3) Run `npm i` in the terminal to install packages
 4) Run it by typing `node .` in the terminal
 
